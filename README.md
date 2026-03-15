@@ -1,5 +1,3 @@
-# Obesity-
-
 # Problem Statement 
 Obesity rates vary across different socioeconomic groups in the United States. Understanding whether income level is associated with obesity prevalence may help identify health disparities and guide public health interventions.
 
