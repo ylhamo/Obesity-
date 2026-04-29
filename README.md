@@ -52,8 +52,6 @@ Average obesity rates by income group:
 
 <img width="827" height="467" alt="image" src="https://github.com/user-attachments/assets/814c0424-aa36-4339-bcda-fc363c094adf" />
 
-
-
 Lower income groups consistently showed higher obesity rates than higher income groups.
 
 ## Conclusion
