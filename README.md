@@ -56,8 +56,8 @@ Lower income groups consistently showed higher obesity rates than higher income 
 
 ## Conclusion
 
-This project found an inverse relationship between income and obesity rates. As income increased, average obesity rates decreased.
-
+The analysis supports the hypothesis that lower income groups have higher obesity rates than higher income groups across U.S. states. The lowest income group (Less than  15,000)ℎ𝑎𝑑𝑡ℎ𝑒ℎ𝑖𝑔ℎ𝑒𝑠𝑡𝑎𝑣𝑒𝑟𝑎𝑔𝑒𝑜𝑏𝑒𝑠𝑖𝑡𝑦𝑟𝑎𝑡𝑒𝑎𝑡35.84
+ 75,000 or greater) had the lowest average obesity rate at 29.02%. This suggests an inverse relationship between income and obesity rates.
 ## Author
 
 Yangchen Lhamo
